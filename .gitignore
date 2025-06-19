@@ -1,0 +1,7 @@
+# Si clonaste el repo
+git add README.md
+git commit -m "feat: configurar perfil profesional GitHub
+- Información personal y profesional
+- Estadísticas de GitHub
+- Proyectos destacados
+- Objetivos de aprendizaje"
